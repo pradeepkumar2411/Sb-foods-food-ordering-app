@@ -1,0 +1,45 @@
+========================================
+IDEA:
+Build a Web App using MERN stack for ordering food online.
+========================================
+PAGES/COMPONENTS:
+-Login
+-Register
+-Profile
+-AdminPage
+	-Add Dish
+-Main
+	-Categories Tab
+		-Fast Food
+		-North Indian Food
+		-South Indian Food
+		-Arabian Food
+		-Italian Food
+-Cart
+-Payment Page
+-Order Placed
+
+========================================
+DATA MODELS:
+-UserInformation:
+	-Name
+	-Email
+	-Phone Number
+	-Address
+
+-Dish:
+	-DishName
+	-Cuisine
+	-Description
+	-Image
+	-Price
+
+-Order:
+	-Dishes []
+	-Total Cost
+	-User
+
+========================================
+ENDPOINTS [API]:
+
+========================================
